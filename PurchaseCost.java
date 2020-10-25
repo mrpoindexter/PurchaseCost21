@@ -62,9 +62,6 @@ public class PurchaseCost {
     
 }
 
-
-
-
 package purchasecost;
 
 /* @author Ahnaf Abid Khan */
@@ -162,7 +159,6 @@ void TransportationCost(Foreign F)
     }
 }
 }
-
 
 package purchasecost;
 import java.util.Scanner;
